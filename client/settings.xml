@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<connection host="127.0.0.1" port="9899" transport="BinaryTCP" serverId="server1" />
+	<connection host="127.0.0.1" port="8989" transport="HTTP" serverId="server1" />
+</settings>
